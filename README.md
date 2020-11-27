@@ -35,3 +35,9 @@ The purpose of this kata is to experience the TDD approach whilst using the foll
 * The prompt to write a test is a new requirement. We assume that we obtained these when elaborating the story with the customer.
 
 * When we discover that we need new collaborators by refactoring we ask: are they part of our public interface or an implementation detail. We don’t test implementation details
+
+## How Ron Did it
+
+* [Adventures in C#: Bowling Game](https://ronjeffries.com/xprog/articles/acsbowling/)
+* [Adventures in C#: Bowling Revisted](https://ronjeffries.com/xprog/articles/acsbowlingprocedural/)
+* [Adventures in C#: Extending the Procedural Bowling Game](https://ronjeffries.com/xprog/articles/acsbowlingproceduralframescore/)
